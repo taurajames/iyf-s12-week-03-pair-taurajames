@@ -37,3 +37,7 @@ To be updated with the challenges encountered and how they were resolved.
 ## Author
 **Taura James**  
 IYF WECAN Academy - Season 12
+
+## Taura's Contribution
+
+I created this branch to practise collaborative Git workflows. My contribution includes making changes, committing and pushing my work and submitting a pull request for peer review.
