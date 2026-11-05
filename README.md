@@ -12,7 +12,7 @@ This repository is part of the IYF WECAN Academy Season 12 Week 3 Developer Tool
 
 ## Team Members
 - **Pair Lead:** [Taura James](https://github.com/taurajames)
-- **Partner:** [jamesmwangi96ismyhandle-source](https://github.com/jamesmwangi96ismyhandle-source)
+- **Partner:** [Partner: James Mwangi — Git and GitHub collaboration](https://github.com/jamesmwangi96ismyhandle-source)
 
 ## Tools Used
 
