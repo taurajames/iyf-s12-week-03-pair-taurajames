@@ -41,3 +41,16 @@ IYF WECAN Academy - Season 12
 ## Taura's Contribution
 
 I created this branch to practise collaborative Git workflows. My contribution includes making changes, committing and pushing my work and submitting a pull request for peer review.
+
+## James Mwangi's Pair Collaboration Contribution
+
+I contributed to the IYF Season 12 Week 03 Pair Collaboration Lab.
+
+My work includes:
+
+- Creating my own feature branch: `james-my-work-from-main`.
+- Updating the pair collaboration documentation.
+- Reviewing and approving Taura's pull request.
+- Providing constructive feedback on my partner's contribution.
+
+This contribution demonstrates my understanding of Git branching, pull requests, code reviews and collaborative development.
