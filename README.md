@@ -48,7 +48,7 @@ I contributed to the IYF Season 12 Week 03 Pair Collaboration Lab.
 
 ## Merge Conflict Exercise
 
-This repository demonstrates branching, merging and conflict resolution.
+This repository demonstrates collaborative Git workflows.
 
 My work includes:
 
