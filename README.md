@@ -46,6 +46,10 @@ I created this branch to practise collaborative Git workflows. My contribution i
 
 I contributed to the IYF Season 12 Week 03 Pair Collaboration Lab.
 
+## Merge Conflict Exercise
+
+This repository demonstrates collaborative Git workflows.
+
 My work includes:
 
 - Creating my own feature branch: `james-my-work-from-main`.
